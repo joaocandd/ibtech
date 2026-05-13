@@ -153,6 +153,7 @@ a:hover {
   background-color: var(--cor-destaque-2);
 }
 
+/* Galeria de fotos */
 .galeria {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -176,6 +177,7 @@ a:hover {
   border-color: var(--cor-destaque);
 }
 
+/* Vídeo centralizado com a foto do meio */
 .video-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -192,6 +194,7 @@ a:hover {
   border-radius: 12px;
 }
 
+/* Animação de entrada */
 .js-enabled .reveal {
   opacity: 0;
   transform: translateY(24px);
@@ -202,6 +205,7 @@ a:hover {
   transform: translateY(0);
 }
 
+/* Responsividade */
 @media (max-width: 900px) {
   .galeria,
   .video-container {

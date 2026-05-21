@@ -30,6 +30,14 @@ https://joaocandd.github.io/ibtech/
 - JavaScript
 - GitHub Pages
 
+## Correções da reentrega
+
+- Apliquei as variáveis de tamanho de fonte em mais elementos da página.
+- O `body` agora usa `--tamanho-normal`.
+- A frase de apresentação e o rodapé usam `--tamanho-pequeno`.
+- O título principal usa `--tamanho-titulo`, que muda no mobile sem valor solto no `h1`.
+- Organizei o começo do CSS com comentários de seção.
+
 ## Estrutura dos arquivos
 
 ```text
